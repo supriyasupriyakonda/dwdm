@@ -1,0 +1,5 @@
+v<-c('gopu','babu','baby','gopal','krishna','jai','dev','malini','hema','anu')
+veg<-c(7)
+nonveg<-c(3)
+if(veg>nonveg)
+  print(veg)
