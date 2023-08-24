@@ -1,0 +1,8 @@
+@relation item
+@attribute height{yes,no}
+@attribute weight{yes,no}
+@attribute gender{male,female}
+@data
+n,y,male
+n,n,female
+y,y,male
